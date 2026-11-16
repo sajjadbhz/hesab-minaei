@@ -1,0 +1,12 @@
+{
+  "name": "دفتر طلای مینائی",
+  "short_name": "طلای مینائی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F5F9",
+  "theme_color": "#F4F5F9",
+  "icons": []
+}
